@@ -1,0 +1,20 @@
+nav{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    padding: 10px;
+    background-color: lightcoral;
+    color: black;
+    text-decoration: none;
+}
+
+main{
+    height: 70vh;
+}
+
+footer{
+ background-color: #c1c1c1;
+}

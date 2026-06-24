@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+ <?php include './includes/head.php'; ?>
+
 <body>
     <h1> <?php echo "TELA DO USUARIO"; ?> </h1>
-    <DIV></DIV>
+    
+    <?php include './includes/navbar.php'; ?>
 
     <footer>
         <span>foot</span>
