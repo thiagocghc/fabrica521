@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+ <?php include './includes/head.php'; ?>
+
 <body>
     <h1> <?php echo "TELA DO PRODUTO"; ?> </h1>
 
+    <?php include './includes/navbar.php'; ?>
+
     <main>
-        <div>
+        <div class="card">
+            <img src="./imgs/prod.png" alt="">
             <p>card do produto</p>
         </div>
     </main>
