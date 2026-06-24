@@ -7,7 +7,13 @@
 </head>
 <body>
     <h1> <?php echo "TELA DO PRODUTO"; ?> </h1>
-    <DIV></DIV>
+
+    <main>
+        <div>
+            <p>card do produto</p>
+        </div>
+    </main>
+
 
     <footer>
         <span>foot</span>
